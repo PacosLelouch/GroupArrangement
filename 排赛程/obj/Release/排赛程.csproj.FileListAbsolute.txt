@@ -1,0 +1,11 @@
+F:\Database_uni\Programming\VSProject\排赛程\排赛程\bin\Release\排赛程.exe.config
+F:\Database_uni\Programming\VSProject\排赛程\排赛程\bin\Release\排赛程.exe
+F:\Database_uni\Programming\VSProject\排赛程\排赛程\bin\Release\排赛程.pdb
+F:\Database_uni\Programming\VSProject\排赛程\排赛程\obj\Release\排赛程.csprojResolveAssemblyReference.cache
+F:\Database_uni\Programming\VSProject\排赛程\排赛程\obj\Release\排赛程.Form1.resources
+F:\Database_uni\Programming\VSProject\排赛程\排赛程\obj\Release\排赛程.Properties.Resources.resources
+F:\Database_uni\Programming\VSProject\排赛程\排赛程\obj\Release\排赛程.csproj.GenerateResource.Cache
+F:\Database_uni\Programming\VSProject\排赛程\排赛程\obj\Release\排赛程.exe
+F:\Database_uni\Programming\VSProject\排赛程\排赛程\obj\Release\排赛程.pdb
+F:\Database_uni\Programming\VSProject\排赛程\排赛程\obj\Release\排赛程.csproj.ResolveComReference.cache
+F:\Database_uni\Programming\VSProject\排赛程\排赛程\obj\Release\排赛程.csproj.CoreCompileInputs.cache
